@@ -16,4 +16,4 @@ With 5 Projects that has to be completed in this program including:
   <li>Wrangle And Analyze Data</li>
   <li>Communicate Data Findings</li>
 </ul>
-For more information on this program could be found [here](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
+For more information on this program could be found (https://www.udacity.com/course/data-analyst-nanodegree--nd002 'here').
