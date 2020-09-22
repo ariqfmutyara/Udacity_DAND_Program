@@ -1,0 +1,5 @@
+Which genres are most popular from year to year? 
+What kinds of properties are associated with movies that have high revenues?
+What is the 10 highest grossing movie?
+What is the 10 most expensive movie to be ever made?
+Does high budget movie necessarily mean high popularity among viewers?
